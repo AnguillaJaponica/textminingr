@@ -1,8 +1,3 @@
-library(RMeCab)
-library(dplyr)
-library(magrittr)
-library(stringr)
-
 sample <- RMeCabFreq("sample.txt")
 
 #改行の削除
